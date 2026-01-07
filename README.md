@@ -2,64 +2,43 @@
 ### Mechanical Engineer | MEP Consultant | Engineering Automation Enthusiast
 
 🔧 Mechanical Engineer pada perusahaan Konsultan Perencana Mechanical & Electrical (MEP).  
-💡 IT adalah hobi yang berkembang menjadi berbagai aplikasi perhitungan teknik untuk meningkatkan efisiensi desain dan akurasi engineering.  
-⚙️ Fokus pada sistem utilitas bangunan, perhitungan mekanikal, dan otomasi engineering.
+💡 IT adalah hobi yang berkembang menjadi berbagai aplikasi perhitungan teknik untuk meningkatkan efisiensi desain, akurasi engineering, dan produktivitas kerja.  
+⚙️ Berpengalaman dalam pengembangan tools perhitungan mekanikal, otomasi drafting, dan dokumentasi teknis.
 
 ---
 
 ## 🧠 Keahlian Utama
-- ⚙️ Mechanical Engineering (MEP Design & Calculation)
+- ⚙️ Mechanical Engineering (MEP Design & Engineering Calculation)
 - 🏭 Steam & Condensate System
 - 💨 Compressed Air System
 - 🚿 Fire Fighting & Sprinkler System
 - 🛢️ Hydraulic & Fluid Calculation
-- 🐍 Python (Engineering Calculation Tools)
+- 🐍 Python (Desktop Engineering Tools & Automation)
 - 📐 AutoCAD (AutoLISP Automation)
 - 📊 Excel Engineering Automation
 - 📑 Technical Documentation & Engineering Report
 
 ---
 
-## 🚀 Portfolio Engineering Applications
+## 🚀 Portfolio Highlights
 
-### 🔹 Steam & Condensate System Calculator
-Aplikasi perhitungan sistem uap meliputi:
-- Kapasitas boiler
-- Diameter pipa steam & condensate
-- Feed Water Tank sizing
-- Estimasi kebutuhan sistem utilitas
+### 🔹 Engineering Calculation Tools (Python – Internal Use)
+Desktop applications yang dikembangkan untuk kebutuhan perhitungan engineering internal:
+- Steam & Condensate System Calculator
+- Compressed Air System Calculator
+- Hydraulic Calculation for Sprinkler System
+- Septic Tank Design Calculator
+- AutoCAD AutoLISP Productivity Tools  
 
----
-
-### 🔹 Compressed Air System Calculator
-Perhitungan:
-- Kebutuhan kapasitas compressor
-- Distribusi pipa udara tekan
-- Pressure drop & flow estimation
+⚠️ Source code tidak dipublikasikan karena digunakan untuk kebutuhan internal dan pertimbangan proprietary.
 
 ---
 
-### 🔹 Hydraulic Calculation Sprinkler
-Tool perhitungan:
-- Debit aliran
-- Head loss
-- Pompa dan tekanan sistem sprinkler
+### 🌐 Web Portfolio (Public Demo)
+🔗 **Online CV / Web Portfolio**  
+👉 https://ahmaddurzani.github.io/cv  
 
----
-
-### 🔹 Septic Tank Design Calculator
-Perhitungan:
-- Volume tangki septik
-- Waktu tinggal (retention time)
-- Kapasitas pengguna
-
----
-
-### 🔹 AutoCAD AutoLISP Tools
-Kumpulan tools otomatisasi:
-- Manipulasi teks & layer
-- Otomatisasi drafting
-- Productivity tools untuk gambar teknik
+Web portfolio sederhana berbasis HTML & CSS yang di-deploy menggunakan GitHub Pages sebagai showcase personal.
 
 ---
 
